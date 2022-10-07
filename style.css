@@ -1,0 +1,132 @@
+.footbtn {
+    font-family: cursive;
+    margin-left: 35%;
+    border-color: red;
+    background-color: rgb(255, 153, 0);
+    border-radius: 19px;
+}
+.footbtn img{
+    padding: 2px;
+    border: 2px;
+    border-radius: 19px;
+}
+.toybtn {
+    font-family: cursive;
+    
+    border-color: red;
+    background-color: rgb(255, 153, 0);
+    border-radius: 19px;
+}
+.toybtn iframe{
+    padding: 2px;
+    border: 2px;
+    border-radius: 19px;
+}
+.menu {
+    border-radius: 13px;
+    background-color: rgb(255, 153, 0);
+}
+
+.menu ul {
+    overflow: auto;
+}
+
+.menu li {
+    float: left;
+    font-size: 16px;
+    margin: 13px 2px;
+    list-style: none;
+}
+
+.menu li a {
+    font-family: cursive;
+    font-size: 20px;
+    padding: 0px 6px;
+    text-decoration: none;
+    color: rgb(0, 0, 0)
+}
+
+.menu li a:hover {
+    color: rgb(255, 0, 0)
+}
+
+.search {
+    float: right;
+    color: black;
+    padding: 12px 80px;
+}
+
+.menu input {
+    border: 2px solid black;
+    border-radius: 14px;
+    border-color: rgb(240, 0, 0);
+    padding: 5px 15px;
+    width: 160px;
+}
+
+.logo {
+    height: 50px;
+    width: 300px;
+    margin: 0px 40%;
+}
+
+footer li a {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+}
+
+footer li a:hover {
+    color: red;
+    border: 2px;
+    border-radius: 2px;
+}
+
+::placeholder {
+    color: red;
+    font-family: cursive;
+}
+.toy{
+   border: 2px;
+   border-radius: 5px;
+   background-color: brown;
+   text-align:center;
+   color: rgb(255, 255, 255)
+}
+div .np{
+    background-color:rgb(255, 153, 0);
+    border-color: rgb(20, 16, 238);
+    border-radius: 10px;
+    border-style: dashed;
+}
+div button a{
+    text-decoration: none;
+    font-family: cursive;
+    color: rgb(0, 0, 0);    
+}
+.list2 li{
+    float: unset;
+}
+.list2logo{
+    float: right;
+}
+.listbtn {
+    font-family: cursive;
+    border-color: red;
+    background-color: rgb(255, 153, 0);
+    border-radius: 19px;
+}
+.listbtn a{
+    text-decoration: none;
+    color: black;
+}
+.listbtn a:hover{
+    color: red;
+}
+.listbtn img{
+    padding: 2px;
+    border: 2px;
+    border-radius: 19px;}
+.toyimg{
+    width: 400px;
+}
